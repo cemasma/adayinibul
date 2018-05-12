@@ -1,0 +1,39 @@
+#container {
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+    position: relative;
+    background-image: url("images/Untitled-1_0000_takim.png");
+}
+
+#solgoz {
+    position: absolute;
+    border: 1px solid gray;
+    height: 45px;
+    top: 145px;
+    left: 80px;
+}
+
+#saggoz {
+    position: absolute;
+    border: 1px solid gray;
+    height: 45px;
+    top: 145px;
+    left: 155px;
+}
+
+#kafa {
+    z-index: -1;
+    position: absolute;
+    height: 340px;
+    top: 32px;
+    left: 32px;
+}
+
+#agiz {
+    position: absolute;
+    border: 1px solid gray;
+    height: 60px;
+    top: 225px;
+    left: 105px;
+}
