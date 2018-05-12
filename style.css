@@ -45,4 +45,8 @@ center {
 
 button {
     margin-top: 25px;
+    text-align: center;
+    border: none;
+    width: 50%;
+    height: 5%;
 }
