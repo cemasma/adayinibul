@@ -1,9 +1,9 @@
-let heads = ["kilicdarkafa", "erdogankafa", "temelkafa", "selahattinkafa"];
+let heads = ["kilicdarkafa", "erdogankafa", "temelkafa", "selahattinkafa", "dogukafa"];
 let eyes = {
-    left: ["kilicdarsolgoz", "bahcelisolgoz", "erdogansolgoz", "meralsolgoz", "temelsolgoz", "selahattinsolgoz"],
-    right: ["kilicdarsaggoz", "bahcelisaggoz", "erdogansaggoz", "meralsaggoz", "selahattinsaggoz"]
+    left: ["kilicdarsolgoz", "bahcelisolgoz", "erdogansolgoz", "meralsolgoz", "temelsolgoz", "selahattinsolgoz", "dogusolgoz"],
+    right: ["kilicdarsaggoz", "bahcelisaggoz", "erdogansaggoz", "meralsaggoz", "selahattinsaggoz", "dogusaggoz"]
 };
-let mouths = ["kilicdaragiz", "bahceliagiz", "erdoganagiz", "meralagiz", "temelagiz", "selahattinagiz"];
+let mouths = ["kilicdaragiz", "bahceliagiz", "erdoganagiz", "meralagiz", "temelagiz", "selahattinagiz", "doguagiz"];
 
 let names = {
     first: ["kemal", "recep", "devlet", "selahattin", "doğu", "temel"],
